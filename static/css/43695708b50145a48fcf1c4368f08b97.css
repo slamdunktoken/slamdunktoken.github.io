@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'BodoniFLF';
+    font-style: normal;
+    font-weight: 500;
+    src: local('BodoniFLF'), url('../fonts/bodoniflf-roman.woff') format('woff');
+}
+@font-face {
+    font-family: 'BodoniFLF';
+    font-style: italic;
+    font-weight: 500;
+    src: local('BodoniFLF'), url('../fonts/bodoniflf-italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'BodoniFLF';
+    font-style: normal;
+    font-weight: 700;
+    src: local('BodoniFLF'), url('../fonts/bodoniflf-bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'BodoniFLF';
+    font-style: italic;
+    font-weight: 700;
+    src: local('BodoniFLF'), url('../fonts/bodoniflf-bolditalic.woff') format('woff');
+}
+
+
